@@ -13,7 +13,7 @@ I am experienced in designing websites based on ReactJS to create beautiful and 
 - 💼 Currently working part-time as a Front-end Developer with `React` and `Mobx`.
 - 🔭 As a side project I regularly read blogs on Medium, Dev.to,...
 - 📫 How to reach me: `abc.nguyentiendat@gmail.com`
-- 🔰 I'm learning PHP,GraphQL, NodeJS and TypeScript.
+- 🔰 I'm learning PHP, GraphQL, NodeJS and TypeScript.
 
 <br />
 
