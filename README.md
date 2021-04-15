@@ -10,7 +10,7 @@
 <br/>
 
 I am experienced in designing websites based on ReactJS to create beautiful and friendly websites for the user.
-- 💼 Currently working part-time as a Front-end Developer with `React` and `Mobx`.
+- 💼 Currently working part-time as a Developer with `React`, `Mobx`, `PHP`, `Joomla`.
 - 🔭 As a side project I regularly read blogs on Medium, Dev.to,...
 - 📫 How to reach me: `abc.nguyentiendat@gmail.com`
 - 🔰 I'm learning PHP, Joomla and Docker, Kubernetes.
