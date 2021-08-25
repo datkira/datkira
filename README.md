@@ -10,10 +10,10 @@
 <br/>
 
 I am experienced in designing websites based on ReactJS to create beautiful and friendly websites for the user.
-- 💼 Currently working part-time as a Developer with `React`, `Mobx`, `PHP`, `Joomla`.
+- 💼 Currently, I'm finding a new role to improve my skills and dedicate.
 - 🔭 As a side project I regularly read blogs on Medium, Dev.to,...
 - 📫 How to reach me: `abc.nguyentiendat@gmail.com`
-- 🔰 I'm learning AWS, NodeJS.
+- 🔰 I'm learning TypeScript, NodeJS.
 <br />
 
 #### 📦 Languages, Frameworks and Tools:
