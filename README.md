@@ -9,6 +9,7 @@
 <hr />
 <br/>
 - 🔭 As a side project I regularly read blogs on Medium, Dev.to,...
+<br/>
 - 📫 How to reach me: `abc.nguyentiendat@gmail.com`
 <br />
 
